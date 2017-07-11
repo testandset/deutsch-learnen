@@ -61,10 +61,8 @@ Regardless of the grammatical gender, all plural nouns take the definite article
 ## German Cases
 There are four cases in German
 
-* Nominative (the subject of sentence)
-   Die Frau spielt (The woman plays), Frau is in nominative case
-* Accusative (the object of the sentence)
-   Der Lehrer sieht den Ball (The teacher sees the ball), Lehrer is nominative and Ball is accusative.
+* Nominative (the subject of sentence) eg. Die Frau spielt (The woman plays), Frau is in nominative case  
+* Accusative (the object of the sentence) eg. Der Lehrer sieht den Ball (The teacher sees the ball), Lehrer is nominative and Ball is accusative.
 
 Article change for cases
 
