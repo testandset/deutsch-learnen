@@ -2,8 +2,8 @@
 
 1. In German all nouns are capitialized. 
 
-   my name - mein Name
-   the apple - das Apfel
+   my name - mein Name  
+   the apple - das Apfel  
 
 1. Three grammatical genders, three types of nouns
 
@@ -33,18 +33,18 @@ Regardless of the grammatical gender, all plural nouns take the definite article
 
 1. **-e** ending: Most one-syllable nouns will need  -e in their plural form.
 
-   das Brot -> die Brote
-   das Spiel -> die Spiele
+   das Brot -> die Brote  
+   das Spiel -> die Spiele  
 
 1. **-er** ending: Most masculine or neuter nouns will need the -er ending, and there may be umlaut changes.
 
-   das Kind -> die Kinder
-   der Mann -> dir Männer
+   das Kind -> die Kinder  
+   der Mann -> dir Männer  
 
 1. **-n**/**-en** ending: Most feminie nouns will take either  -n or -en in all four grammitical cases, with no umlat changes.
 
-   die Frau -> die Frauen
-   die Kartoffel -> die Kartoffelen
+   die Frau -> die Frauen  
+   die Kartoffel -> die Kartoffelen  
 
 1. **-s** ending: Most foreign-origin nouns will take the -s ending for the plural with no umlaut changes.
 
