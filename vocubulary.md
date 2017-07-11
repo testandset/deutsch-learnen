@@ -3,6 +3,8 @@
 
 # Greetings
 
+   German | English
+   -------|---------
    Bye | tschüss
    See you soon | bis bald
    See you later | bis später
