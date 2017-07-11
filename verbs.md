@@ -16,9 +16,9 @@ All verb conjugation in German have 6 forms
 
 # Irregular verbs
 
-   | Verb | English | ich | du | er/sie/et | wir | ihr | sie | Sie |
+   | Verb | ich | du | er/sie/et | wir | ihr | sie | Sie | Remark
    |-------|--------|-----|-----|-----------|-----|-----|-----|-----|
-   | sien | to be | bin | bist | ist | sind | seid | sind | sind |
+   | sien | bin | bist | ist | sind | seid | sind | sind | to be (is, are) |
 
 
 
