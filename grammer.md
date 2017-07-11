@@ -3,9 +3,11 @@
 1. In German all nouns are capitialized. 
 
    my name - mein Name
+
    the apple - das Apfel
 
 1. Three grammatical genders, three types of nouns
+
    Nouns in German are either
       * feminine
       * masculine
@@ -61,14 +63,13 @@ There are four cases in German
 
 Article change for cases
 
-
    | Case | Masculine | Feminine | Neuter | Plural |
-   |----|---------|------|-------|-------|-------|
+   |------|-----------|----------|--------|--------|
    | Nominative | der | die | das | die |
    | Accusative | den | die | das | die |
 
 
    | Case | Masculine | Feminine | Neuter |
-   |-----|---------|------|-------|-------|
+   |------|-----------|----------|--------|
    | Nominative | ein | eine | ein |
    | Accusative | einen | eine | ein |
