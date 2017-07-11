@@ -24,7 +24,9 @@ All verb conjugation in German have 6 forms
 
 # Regular verbs
 
-   | Verb | English | ich | du | er/sie/et | wir | ihr | sie | Sie |
+   | Verb | ich | du | er/sie/et | wir | ihr | sie | Sie | Remark |
    |-------|--------|-----|-----|-----------|-----|-----|-----|-----|
-   | trinken | to drink | trink*e* | trink*st* | trink*t* | trink*en* | trink*t* | trink*en* | trink*en* |
+   | trinken | trink*e* | trink*st* | trink*t* | trink*en* | trink*t* | trink*en* | trink*en* | to drink |
+   | haben | habe | hast | hat | haben | habt | haben | haben | to have, unlike in English it can only mean to possess |
+
 
