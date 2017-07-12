@@ -2,7 +2,6 @@
 
    English | German
    :------ | -----:
-
    We are reading newspapers/newspaper | Wir lesen Zietungen/Zietung
    The ducks/duck | Die Enten
    He is eating oranges | Er esst Orangen
