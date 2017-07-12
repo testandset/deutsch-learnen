@@ -31,6 +31,6 @@
    Y | upsilon
    Z | *zed*
    ä | *ae*
-   ö | *ou*
+   ö | *ou* 
    ü | *uu*
    ß | eszett
