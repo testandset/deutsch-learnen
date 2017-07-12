@@ -54,7 +54,7 @@ Regardless of the grammatical gender, all plural nouns take the definite article
 
    das Mädchen -> die Mädchen
 
-1. **-nen" ending: Feminine nouns that end in *-in* will need -nen in the plural. 
+1. **-nen** ending: Feminine nouns that end in *-in* will need -nen in the plural. 
 
    die Köchin -> die Köchinnen
 
