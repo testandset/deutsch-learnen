@@ -2,6 +2,8 @@
 
 ## Alphabet
 
+   Alphabet | Pronunciation
+   ------ | -------
    A | *aa*
    B | *be*
    C |
@@ -28,7 +30,6 @@
    X | *ex*
    Y | upsilon
    Z | *zed*
-
    ä | *ae*
    ö | *ou*
    ü | *uu*
