@@ -44,7 +44,7 @@ Regardless of the grammatical gender, all plural nouns take the definite article
 1. **-n**/**-en** ending: Most feminie nouns will take either  -n or -en in all four grammitical cases, with no umlat changes.
 
    die Frau -> die Frauen  
-   die Kartoffel -> die Kartoffelen  
+   die Kartoffel -> die Kartoffeln  
 
 1. **-s** ending: Most foreign-origin nouns will take the -s ending for the plural with no umlaut changes.
 
@@ -76,3 +76,63 @@ Article change for cases
    |------|-----------|----------|--------|
    | Nominative | ein | eine | ein |
    | Accusative | einen | eine | ein |
+
+
+## Negative and positive statements
+
+The German adverb **nicht** (not) is used very often but **kein** (not a ) is used as well.
+
+### Nict usage
+
+1. Negating a noun that has a definite article
+   
+   * Der Architekt mag den Raum nicht (The architect does not like the room)  
+
+1. Negating a noun that has a possessive pronoun like 'sein Glas' (his glass)
+
+   * Der Autor sucht sein Glas nicht (The writer is not looking for his glass)  
+
+1. Negating a verb
+
+   * Sie trinken nicht (They/You do not drink)
+
+1. Negating a adverb or adverbial phrase
+
+   * Mein Mann isst nicht immer (My husband does not eat at all times)
+
+1. Negating an adjective that is used with *sein* (to be)
+
+   * Du bist nicht hungrig (You are not hungry)
+
+### Position of Nicht
+
+1. Nicht will precede adjectives and adverbs.
+
+   * Das Fru:hstu:ck ist nicht schlecht (The breakfast is not bad)  
+
+1. For verbs Nicht comes after conjugated verbs
+
+   * Die Maus isst nicht (the mouse does not eat)
+
+1. For past, nicht will come before the participle at the send of the sentence
+
+   * Ich habe nicht gegessen (I did not eat)  
+
+1. Nicht also tends to come at the end of the sentences (after direct objects like 'mir' (me) or after yes/no questions if there is just one conjugated verb)
+
+   * Die Lehrerin hilft mir nicht (The teacher does not help me)  
+   * Hat er den Ball nicht? (Does he not have a ball?)
+
+### Kein
+
+Kein is composed of 'k' + 'ein', and placed where the indefinite artile would be in a sentence. 
+
+   * ein Mann (a man) - kein Mann ( not a man)
+
+It is also used to negate nouns that have no article.
+
+   * Man hat Brot (one has bread) - Man hat kein Brot (one has no bread)
+
+   
+
+   

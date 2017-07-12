@@ -19,4 +19,9 @@
    The girl is eating apples | Das Ma:dchen isst A:pfel
    The woman and the girl are eating apples | Die Frau und das Ma:dchen essen A:pfel
    The birds are eating bread | Die Vo:gel essen Bro:t
+   Ducks are birds | Enten sind Vo:gel
+   She and I are eating apples | Sie und Ich essen A:pfel
+   The girls are drinking milk | Die Ma:dchen trinken milch.
+   The birds are drinking water | Die Vo:gel trinken wasser
+   The girls are eating potatoes | Die Ma:dchen essen Kartoffeln
    
