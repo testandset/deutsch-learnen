@@ -54,5 +54,15 @@
    Is it far? | Ist es weit?
    Is the food expensive | Ist das Essen teuer?
    You are slow | Du bist langsam
-
-
+   Is the dog imprtant? | Ist der Hund Wichtig?
+   The boy is fast | Der Junge ist Schnell
+   Is it new? | Ist es neu? 'nooee'
+   Is it far? | Ist es weit? 'waaieet'
+   Is the food expensive | Ist der Essen teuer?
+   Is the pet young? | Ist das Haustier jung?
+   It is right | Das ist richtig
+   Are you all tired? | Seid ihr mu:de?
+   Is the cheese old? | Ist die Ka:se alt?
+   Is it difficult? Ist das schwer? 'schweeye'
+   It is cold! | Es ist kalt!
+   
