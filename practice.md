@@ -65,4 +65,17 @@
    Is the cheese old? | Ist die Ka:se alt?
    Is it difficult? | Ist das schwer? 'schweeye'
    It is cold! | Es ist kalt!
+   The man is in the car | Der Mann ist im Auto
+   Stephen is studying for the exam | Stephen lernt fu:r die Pru:fung 'pyoofung'
+   I'm studying right now | Ich lerne gerade
+   She is studying today | Sie lernt heute
+   She is not studying | Sie lernt nicht
+   She is making a salad | Sie macht einen salat
+   We are on vacation | Wir machen Urlaub
+   He is making noise | Er macht La:rm
+   She is not doing anything | Sie macht nicht
+   She is walking (going by foot) | Sie geht zu Fuß
+   I'm going to bed | Ich gehe ins Bett
+   Klaus is going away | Klaus geht weg
+
    
