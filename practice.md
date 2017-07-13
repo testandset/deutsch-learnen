@@ -63,6 +63,6 @@
    It is right | Das ist richtig
    Are you all tired? | Seid ihr mu:de?
    Is the cheese old? | Ist die Ka:se alt?
-   Is it difficult? Ist das schwer? 'schweeye'
+   Is it difficult? | Ist das schwer? 'schweeye'
    It is cold! | Es ist kalt!
    
