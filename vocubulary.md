@@ -1,6 +1,6 @@
 # Vocubulary
 
-# Introduction
+## Introduction
 
    English | German
    :------ | ------:
@@ -18,7 +18,7 @@
    I live in Delhi | Ich wohne in Delhi
 
 
-# Greetings
+## Greetings
 
    English | German
    :-------|---------:
@@ -33,8 +33,25 @@
    I'm sorry | Es tut mir leid
    All right | alles klar, in ordnung
 
+## Interrogative Pronouns
 
-# Words
+   English | German
+   :------ | ------:
+   Why | Warum
+   What | Was
+   When | Wann
+   How | Wie
+   Where at | Wo
+   Where from | Woher
+   Where to | Wohin
+   Who | Wer
+   Whom | Wen
+   To whom | Wem
+   Whose | Wessen
+   
+
+
+## Words
 
    English | German
    :------ | ------:
@@ -51,3 +68,6 @@
    healthy, fit | gesund
    maybe | vielliecht
    where | wo
+   Vegetables | Gemu:se
+   people | Menschen
+   See | sehe

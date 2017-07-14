@@ -44,10 +44,6 @@
    The mouse is small | Die Maus ist klein
    He is healthy | Er ist gesund
    I am not eating | Ich esse nicht
-   It is easy | Es ist einfach
-   He is happy | Er ist lustig
-   I am sad | Ich bin traurig
-   I am ready | Ich bin fertig
    Is the dog important | Ist der Hund wichtig?
    The boys is fast | Der Junge ist schnell
    Is it new? | Ist es neu? ('noyee')
@@ -77,5 +73,19 @@
    She is walking (going by foot) | Sie geht zu Fuß
    I'm going to bed | Ich gehe ins Bett
    Klaus is going away | Klaus geht weg
-
-   
+   It is easy | Es ist einfach 
+   He is funny | Er ist lustig
+   I am sad | Ich bin traurig
+   I am ready | Ich bin fertig
+   is it warm | Ist es warm?
+   It is dirty | Es ist schmutzig
+   It is high | Es ist hoch
+   Is the potato clean | Ist die Kartoffel sauber?
+   The dog is running | Der hund la:uft
+   I am sleeping | Ich schlafe
+   He wants an apple | Er will einen Apfel
+   She writes books | Sie schreibt Bu:cher
+   I hear an animal | Ich ho:re ein tier
+   Is Frank doing overtime | Macht Frank U:berstunden?
+   Are Karl and Susanne talking a break | Machen Karl und Susanne eine Pause?
+   Is she going to the pharmacy | Geht sie zu:r Apotheke?
