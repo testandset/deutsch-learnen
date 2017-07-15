@@ -31,6 +31,10 @@ All verb conjugation in German have 6 forms
    | machen | mache | machst | macht | machen | macht | machen | to make |
    | gehen | gehe | gehst | geht | gehen | geht | gehen | gehen | to walk |
    | mo:gen | mag | magst | mag | mo:gen | mo:gt | mo:gen | mo:gen | to like, for things, animals and people. *Gerne* is used for verbs/adjectives |
+   | ho:re | ho:re | ho:rst | ho:rt | ho:ren | ho:rt | ho:ren | ho:ren | hear |
+   | spielen | spiele | spielst | spielt | spielen | spielt | spielen | spielen | play
+
+
 
 
 

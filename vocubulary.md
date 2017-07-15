@@ -71,3 +71,11 @@
    Vegetables | Gemu:se
    people | Menschen
    See | sehe
+   write | Schreibt
+   hear | ho:re
+   run | la:uft
+   sleep | schlafe
+   play | spiele
+   
+
+
