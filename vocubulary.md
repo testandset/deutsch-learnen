@@ -33,6 +33,25 @@
    I'm sorry | Es tut mir leid
    All right | alles klar, in ordnung
 
+## Pronouns
+   English | German
+   :------ | ------:
+   This | Dies
+   All | Alle
+   Every/All/Each | Jede
+   her/your/their | Ihre (eeyaga)
+   Your | Euer  (ooyer)
+   His | siene
+   Our | Unser / Unsere (unzega)
+   Some | Manche
+   Both | Beide
+   a lot of/a lot | vile/viele (feeale)
+   someone/somebody/anyone | jemand
+   No one | Niemand
+   a little/bit of/some | etwas
+   a few/ couple of / 
+
+
 ## Interrogative Pronouns
 
    English | German
@@ -76,6 +95,19 @@
    run | la:uft
    sleep | schlafe
    play | spiele
+   need | brauch
+   Wear | Targ
+
+
+   ## Nouns
+
+   Sun | Die Sonne
+   Sky | Der Himmel
+   Moon | Der Mond
+   Nature | Die Natur (naatooa)
+   Jewellery | Der Schmuck
+   
+
    
 
 

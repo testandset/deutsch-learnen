@@ -89,3 +89,22 @@
    Is Frank doing overtime | Macht Frank U:berstunden?
    Are Karl and Susanne talking a break | Machen Karl und Susanne eine Pause?
    Is she going to the pharmacy | Geht sie zu:r Apotheke?
+   Do you see the flowers? | Seihst du die Blumen?
+   The flowers are falling | Die Blumen fallen
+   We need air | Wir brauchen Luft
+   The tres are small | Die Baume sind klein
+   They see the moon | Sie sehen den Mond
+   The cow has spots | Die Kuh hat Flecken
+   Does the skirt have a stain | Hat der Rock einen Fleck?
+   The dress is done | Das Klied ist fertig
+   The dress fits | Das Kleid passt
+   The shrit is clean | Das Hemd ist sauber
+   Your man is sleeping | Dein Mann ist schla:ft
+   Is that your cow? | Ist das deine Kuh?
+   My books are heavy | Meine Bu:cher sind schwer
+   Our cats is fast | Unsere Katze ist schnell
+   That is all | Das ist alles
+   Some men are walking | Manche Ma:nner laufen
+   I do not hear much | Ich ho:re nict viel
+
+   
