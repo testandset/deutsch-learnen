@@ -69,6 +69,20 @@
    Whose | Wessen
    
 
+## Adverb
+
+   English | German
+   :------ | ------:
+   Enough | genug
+   Still | noch
+   only | nur
+   always | immer
+   too | zu
+   really | wirklich
+   alone | alleine
+   together | zusammen
+   maybe | Vielleicht
+   
 
 ## Words
 
