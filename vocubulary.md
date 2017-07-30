@@ -45,7 +45,7 @@
    Our | Unser / Unsere (unzega)
    Some | Manche
    Both | Beide
-   a lot of/a lot | vile/viele (feeale)
+   much/a lot of/a lot | vile/viele (feeale)
    someone/somebody/anyone | jemand
    No one | Niemand
    a little/bit of/some | etwas
