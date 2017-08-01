@@ -106,5 +106,6 @@
    That is all | Das ist alles
    Some men are walking | Manche Ma:nner laufen
    I do not hear much | Ich ho:re nict viel
-
-   
+   No, it is someone else | Nein, es ist jemand anderes
+   That is something else | Es ist etwas anderes 
+   I need a charger | Ich brauche ein Ladegera:t
