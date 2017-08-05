@@ -82,7 +82,15 @@
    alone | alleine
    together | zusammen
    maybe | Vielleicht
-   
+   but | Doch, sondern, aber  
+   because | denn
+   either | Entweder
+   or | oder
+   if | wenn
+   because | weil
+   that | dass
+
+
 
 ## Words
 
